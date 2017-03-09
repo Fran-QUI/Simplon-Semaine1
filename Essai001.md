@@ -34,11 +34,15 @@ Pour cela il faut laisser une ligne entre les deux paragraphes. Pour forcer le r
 
 On peux aussi faire des puce :
 * Une puce
+  * Une sous puce
+  * Deux sous puce
 * deux puce
 * trois puce
 
 
       * Une puce
+        * Une sous puce
+        * Deux sous puce
       * deux puce
       * trois puce
 
@@ -51,3 +55,14 @@ On peux aussi faire de la numérotation :
         1. et de 1
         2. et de 2
         3. et de 3
+
+Et pourquoi pas un [Lien](http:www.lilo.org) ?
+
+    Et pourquoi pas un [Lien](http:www.lilo.org) ?
+
+Voir une image
+
+![Image_de_Mario](https://media.giphy.com/media/yXPuErPgcf2Le/giphy.gif)
+
+
+    ![Image_de_Mario](https://media.giphy.com/media/yXPuErPgcf2Le/giphy.gif)
