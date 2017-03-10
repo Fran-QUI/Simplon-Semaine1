@@ -66,3 +66,7 @@ Voir une image
 
 
     ![Image_de_Mario](https://media.giphy.com/media/yXPuErPgcf2Le/giphy.gif)
+    
+Une image stockée localement
+
+![image-locale](/img/chat.jpg "Petit Chat")
